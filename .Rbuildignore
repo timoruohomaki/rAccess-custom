@@ -12,3 +12,4 @@ LICENSE
 ^lint_results\.txt$
 ^\.github$
 ^badges$
+^evaluation-report\.md$
